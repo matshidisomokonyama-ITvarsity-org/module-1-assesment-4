@@ -1,0 +1,24 @@
+th{
+    font-weight:500;
+    background-color: #f567e7;
+    color:white;
+    padding: inherit;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style:groove;
+    border-color:black;
+    
+}
+h1{
+    color: #f567e7;
+    font-family:sans-serif;
+    
+    }
+p{
+    font-family:fantasy;
+    color: #f567e7;
+    
+}
